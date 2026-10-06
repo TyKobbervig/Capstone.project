@@ -1,0 +1,289 @@
+[
+    {
+        "title": "Elden Ring",
+        "genre": "rpg",
+        "platforms": [   
+            "PlayStation 4",
+            "PlayStation 5",
+            "PC",
+            "Xbox One",
+            "Xbox Series X"
+        ],
+        "rating": 9.5
+    },
+    {
+        "title": "Hogwarts Legacy",
+        "genre": "rpg",
+        "platforms": [
+            "PC",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox Series X"
+    ],
+        "rating": 9.3
+    },
+    {
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "genre": "adventure",
+        "platforms": ["Nintendo Switch"],
+        "rating": 9.7
+    },
+    {
+        "title": "Baldur's Gate 3",
+        "genre": "rpg",
+        "platforms": [
+            "PC",
+            "PlayStation 5",
+            "Xbox Series X"
+        ],
+        "rating": 9.8
+    },
+    {
+        "title": "The Witcher 3",
+        "genre": "rpg",
+        "platforms": [
+            "PC",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox Series X",
+            "Nintendo Switch"
+        ],
+        "rating": 9.7
+    },
+    {
+        "title": "Cyberpunk 2077",
+        "genre": "rpg",
+        "platforms": [
+            "PC",
+            "PlayStation 5",
+            "Xbox Series X",
+            "Nintendo Switch"
+        ],
+        "rating": 9.0
+    },
+    {
+        "title": "Skyrim",
+        "genre": "rpg",
+        "platforms": [
+            "PC",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox Series X",
+            "Nintendo Switch"
+        ],
+        "rating": 9.4
+},
+{
+        "title": "Call of Duty: Modern Warfare III",
+        "genre": "action",
+        "platforms": [
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox Series X",
+            "PC"
+        ],
+        "rating": 8.5
+},
+{
+        "title": "DOOM Eternal",
+        "genre": "action",
+        "platforms": [
+            "PC",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox Series X",
+            "Nintendo Switch"
+        ],
+        "rating": 9.2
+},
+{
+        "title": "God of War Ragnarök",
+        "genre": "action",
+        "platforms": [
+            "PlayStation 4",
+            "PlayStation 5",
+            "PC"
+        ],
+        "rating": 9.6
+},
+{
+        "title": "Spider-Man 2",
+        "genre": "action",
+        "platforms": [
+            "PlayStation 4",
+            "PlayStation 5",
+            "PC"
+        ],
+        "rating": 9.4
+},
+{
+        "title": "Resident Evil 4",
+        "genre": "action",
+        "platforms": [
+            "PC",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox Series X"
+        ],
+        "rating": 9.3
+},
+{
+        "title": "Forza Horizon 5",
+        "genre": "sports",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X",
+            "PC",
+            "PlayStation 5"
+        ],
+        "rating": 9.0
+},
+{
+        "title": "EA Sports FC 25",
+        "genre": "sports",
+        "platforms": [
+            "PC",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox Series X",
+            "Nintendo Switch"
+        ],
+        "rating": 8.1
+},
+{
+        "title": "NBA 2K25",
+        "genre": "sports",
+        "platforms": [
+            "PlayStation 4",
+            "PlayStation 5",
+            "PC",
+            "Xbox Series X",
+            "Xbox One",
+            "Nintendo Switch"
+        ],
+        "rating": 8.3
+},
+{
+        "title": "MLB The Show 25",
+        "genre": "sports",
+        "platforms": [
+            "PlayStation 5",
+            "Xbox Series X",
+            "Nintendo Switch"
+        ],
+        "rating": 8.4
+},
+{
+        "title": "Tony Hawk's Pro Skater 1+2",
+        "genre": "sports",
+        "platforms": [
+            "PC",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox Series X",
+            "Nintendo Switch"
+        ],
+        "rating": 8.9
+},
+{
+        "title": "Civilization VI",
+        "genre": "strategy",
+        "platforms": [
+            "PC",
+            "Nintendo Switch",
+            "Xbox One",
+            "PlayStation 4"
+        ],
+        "rating": 9.2
+},
+{
+        "title": "Age of Empires IV",
+        "genre": "strategy",
+        "platforms": [
+            "PC",
+            "Xbox Series X",
+            "Xbox One",
+            "PlayStation 5"
+        ],
+        "rating": 8.8
+},
+{
+        "title": "StarCraft II",
+        "genre": "strategy",
+        "platforms": ["PC"],
+        "rating": 9.5
+},
+{
+        "title": "Total War: Warhammer III",
+        "genre": "strategy",
+        "platforms": ["PC"],
+        "rating": 8.9
+},
+{
+        "title": "XCOM 2",
+        "genre": "strategy",
+        "platforms": [
+            "PC",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox Series X",
+            "Xbox One",
+            "Nintendo Switch"
+        ],
+        "rating": 9.1
+},
+{
+        "title": "The Legend of Zelda: Tears of the Kingdom",
+        "genre": "adventure",
+        "platforms": ["Nintendo Switch"],
+        "rating": 9.7
+},
+{
+        "title": "Red Dead Redemption 2",
+        "genre": "adventure",
+        "platforms": [
+            "PC",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "rating": 9.8
+},
+{
+        "title": "Minecraft",
+        "genre": "adventure",
+        "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X", "Nintendo Switch"],
+        "rating": 9.4
+},
+{
+        "title": "Sea of Thieves",
+        "genre": "adventure",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X",
+            "PlayStation 5",
+            "PC"
+
+        ],
+        "rating": 8.7
+},
+{
+        "title": "Subnautica",
+        "genre": "adventure",
+        "platforms": [
+            "PC",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox Series X",
+            "Nintendo Switch"
+        ],
+        "rating": 9.0
+}
+]
